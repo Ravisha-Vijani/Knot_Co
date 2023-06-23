@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: #e7878c;
+
+}
+
+
+
+
+
+body {
+    font: 14px Arial, Sans-serif;
+    margin: 0px;
+}
+
+
+
+
+.container {
+    width: 100%;
+    background: #e7878c
+}
+
+
+
+
+.about {
+    width: 100%;
+    padding: 78px 0px;
+}
+
+.about-text {
+    width: 700px;
+}
+
+.main {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.about-text {
+    color: #033E3E;
+
+    text-transform: capitalize;
+}
